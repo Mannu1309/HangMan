@@ -2,15 +2,6 @@
 
 '''H A N G M A N'''
 
-
-'''a='manish kumar'
-
-x=a.find('u')
-if a.find('u')==-1:
-    print('yes')
-else:
-    b=print('No')'''
-    
     
 wor='MANISH'
 l=len(wor)
